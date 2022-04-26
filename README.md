@@ -1,0 +1,1 @@
+# Finding-the-factors-of-an-integer
